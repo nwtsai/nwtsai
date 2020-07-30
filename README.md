@@ -5,11 +5,6 @@
 👨‍💻 Computer Science @ [UCLA](https://www.ucla.edu)
 
 ### Connect
-<html>
- <a href="https://in.linkedin.com/in/nwtsai">
-  <img align="left" alt="LinkedIn" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
- </a>
- <a href="https://www.instagram.com/nathantsai/">
-   <img align="left" alt="Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg" />
- </a>
-</html>
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nwtsai/)](https://www.linkedin.com/in/nwtsai)
+  [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nathanwtsai)
+  [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/1215527424?si=SnJMSWgcRu6sxHttvSj5wQ)
