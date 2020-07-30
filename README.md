@@ -18,5 +18,5 @@
 <br/>
 
 ### Stats
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai) <br/>
 ![Stats](https://github-readme-stats.vercel.app/api?username=nwtsai&count_private=true&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true)
