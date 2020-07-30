@@ -1,5 +1,5 @@
 ## About
-🚙 Senior Software Engineer @ [Turo](https://www.turo.com)
+🚙 Senior Software Engineer @ [Turo](https://www.turo.com) <br>
 👨‍💻 Computer Science @ [UCLA](https://www.ucla.edu)
 
 ### Connect
