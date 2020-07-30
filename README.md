@@ -2,6 +2,10 @@
 🚙 Senior Software Engineer @ [Turo](https://www.turo.com) <br/>
 👨‍💻 Computer Science @ [UCLA](https://www.ucla.edu)
 
+### Stats
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai) <br/>
+![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=yellow)
+
 ### Connect
 <a href="https://linkedin.com/in/nwtsai">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,7 +20,3 @@
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 <br/>
-
-### Stats
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai) <br/>
-![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=orange) <br/>
