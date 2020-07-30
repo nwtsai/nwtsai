@@ -19,4 +19,4 @@
 
 ### Stats
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai) <br/>
-![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=yellow) <br/>
+![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=orange) <br/>
