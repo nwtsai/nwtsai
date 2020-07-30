@@ -5,7 +5,7 @@
 ### Stats
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai) <br/>
 ![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=yellow) <br/>
-![Merged](https://badgen.net/github/merged-prs/nwtsai/nwtsai) <br/>
+![Merged](https://badgen.net/github/merged-prs/turo/dunlop?color=cyan)
 
 
 ### Connect
