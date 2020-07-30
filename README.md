@@ -1,6 +1,6 @@
 ### About
-&nbsp;&nbsp;&nbsp;&nbsp;🚙 Senior Software Engineer @ [Turo](https://www.turo.com) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Computer Science @ [UCLA](https://www.ucla.edu)
+🚙 Senior Software Engineer @ [Turo](https://www.turo.com) <br/>
+👨‍💻 Computer Science @ [UCLA](https://www.ucla.edu)
 
 ### Connect
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nwtsai/)](https://www.linkedin.com/in/nwtsai)
