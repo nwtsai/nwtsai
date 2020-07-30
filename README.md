@@ -10,4 +10,4 @@
 ### Stats
 ![ViewCount](https://views.whatilearened.today/views/github/nwtsai/Thomas-George-T.svg?cache=remove) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwtsai)](https://github.com/anuraghazra/github-readme-stats) <br/>
-![Stats](https://github-readme-stats.vercel.app/api username=nwtsai&count_private=true&show_icons=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=nwtsai&count_private=true&show_icons=true&hide=prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true)
