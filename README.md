@@ -4,7 +4,7 @@
 ### Education
 👨‍💻 Computer Science Degree @ [UCLA](https://www.ucla.edu)
 
-### Contact
+### Connect
 <html>
  <a href="https://in.linkedin.com/in/nwtsai">
   <img align="left" alt="LinkedIn" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
