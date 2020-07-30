@@ -8,5 +8,5 @@
   [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/1215527424?si=SnJMSWgcRu6sxHttvSj5wQ)
   
 ### Stats
-![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nwtsai&count_private=true) <br>
+![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nwtsai&count_private=true&show_icons=true) <br>
 ![ViewCount](https://views.whatilearened.today/views/github/nwtsai/Thomas-George-T.svg?cache=remove)
