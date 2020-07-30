@@ -1,9 +1,8 @@
 ### About
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚙 Senior Software Engineer @ [Turo](https://www.turo.com) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 Computer Science @ [UCLA](https://www.ucla.edu)
+🚙 Senior Software Engineer @ [Turo](https://www.turo.com) <br/>
+👨‍💻 Computer Science @ [UCLA](https://www.ucla.edu)
 
 ### Connect
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/nwtsai">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -19,5 +18,5 @@
 <br/>
 
 ### Stats
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai) <br/>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai) <br/>
 ![Stats](https://github-readme-stats.vercel.app/api?username=nwtsai&count_private=true&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true)
