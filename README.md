@@ -7,4 +7,6 @@
   [![Facebook  Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/nathanwtsai)
   [![Spotify Badge](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/1215527424?si=SnJMSWgcRu6sxHttvSj5wQ)
   
+### Stats
+![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nwtsai&count_private=true)
 ![ViewCount](https://views.whatilearened.today/views/github/nwtsai/Thomas-George-T.svg?cache=remove)
