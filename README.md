@@ -1,5 +1,7 @@
-### Nathan Tsai
+## Nathan Tsai
 
-## Experience
+### Experience
+🚙 Senior Software Engineer @ [Turo](https://www.turo.com)
 
-## Education
+### Education
+👨‍💻 Computer Science Degree @ [UCLA](https://www.ucla.edu)
