@@ -1,7 +1,8 @@
 ![ViewCount](https://views.whatilearened.today/views/github/nwtsai/Thomas-George-T.svg?cache=remove)
 
 ### About
-🚘 Senior Software Engineer @ [Turo](https://www.turo.com) <br>
+🚙 Senior Software Engineer @ [Turo](https://www.turo.com)
+
 👨‍💻 Computer Science @ [UCLA](https://www.ucla.edu)
 
 ### Connect
