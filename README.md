@@ -19,6 +19,6 @@
 
 ### Stats
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai) <br/>
-![Commits](https://badgen.net/github/commits/nwtsai/nwtsai/yellow) <br/>
+![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=yellow) <br/>
 ![Stats](https://github-readme-stats.vercel.app/api?username=nwtsai&count_private=true&show_icons=true&hide=stars,prs,issues,contribs&hide_title=true&hide_border=true&hide_rank=true)
 
