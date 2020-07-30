@@ -4,7 +4,7 @@
 
 ### Stats
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai) <br/>
-![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=yellow)
+![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=cyan)
 
 ### Connect
 <a href="https://linkedin.com/in/nwtsai">
