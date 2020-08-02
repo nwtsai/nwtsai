@@ -7,11 +7,11 @@
 👨‍💻 Computer Science @ [UCLA](https://www.ucla.edu)
 
 ### Connect
-<a href="https://www.nwtsai.com">
-  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
-</a>
 <a href="https://linkedin.com/in/nwtsai">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.nwtsai.com">
+  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/netflix.svg" />
 </a>
 <a href="https://www.facebook.com/nathanwtsai">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
