@@ -7,9 +7,8 @@
 
 ### Connect
 <a href="https://www.nwtsai.com">
-  <img align="left" alt="Portfolio" width="22px" src="<img src="https://img.icons8.com/ios-filled/50/000000/portfolio.png" />
+  <img align="left" alt="Portfolio" width="22px" src="<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/superuser.svg" />
 </a>
-<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 <a href="https://linkedin.com/in/nwtsai">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
