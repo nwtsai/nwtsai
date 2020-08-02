@@ -1,5 +1,4 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai)
-![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=cyan)
 
 ### About
 🚙 Senior Software Engineer @ [Turo](https://www.turo.com) <br/>
