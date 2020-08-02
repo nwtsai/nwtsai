@@ -1,5 +1,4 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai)
-![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=cyan)
+
 
 ### About
 🚙 Senior Software Engineer @ [Turo](https://www.turo.com) <br/>
@@ -21,4 +20,6 @@
 <br/>
 
 ### Stats
-![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nwtsai&count_private=true&hide=prs,contribs&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=false&icon_color=c9af98&text_color=4c586f&bg_color=f5f5f5&title_color=4c586f)
+![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nwtsai&count_private=true&hide=prs,contribs&show_icons=true&hide_rank=true&include_all_commits=true&hide_title=false&icon_color=c9af98&text_color=4c586f&bg_color=f5f5f5&title_color=4c586f) <br/>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai)
+![Commits](https://badgen.net/github/commits/nwtsai/nwtsai?color=cyan)
