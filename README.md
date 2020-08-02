@@ -22,5 +22,3 @@
 <a href="https://open.spotify.com/user/1215527424?si=SnJMSWgcRu6sxHttvSj5wQ">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="nwtsai"><a class="LI-simple-link" href='https://www.linkedin.com/in/nwtsai?trk=profile-badge'>Nathan Tsai</a></div>
