@@ -1,5 +1,3 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai)
-
 ### About
 🚙 Senior Software Engineer @ [Turo](https://www.turo.com) <br/>
 👨‍💻 Computer Science @ [UCLA](https://www.ucla.edu)
@@ -20,3 +18,5 @@
 <a href="https://open.spotify.com/user/1215527424?si=SnJMSWgcRu6sxHttvSj5wQ">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai)
