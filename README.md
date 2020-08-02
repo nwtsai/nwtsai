@@ -7,7 +7,7 @@
 
 ### Connect
 <a href="https://www.nwtsai.com">
-  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/superuser.svg" />
+  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nintendo.svg" />
 </a>
 <a href="https://linkedin.com/in/nwtsai">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
