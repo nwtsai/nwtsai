@@ -26,5 +26,4 @@
 <br/>
 
 ### Keyboard Builds
-<img width="200px" src="https://i.imgur.com/nYLazTa.jpg" />
-<img width="200px" src="https://i.imgur.com/7K6pNX6.jpg" />
+<img width="200px" src="https://i.imgur.com/nYLazTa.jpg" /> <img width="200px" src="https://i.imgur.com/7K6pNX6.jpg" />
