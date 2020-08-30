@@ -23,5 +23,7 @@
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
 
+<br/>
+
 ### Keyboard Builds
-<img src="https://i.imgur.com/nYLazTa.jpg" />
+<img width="100px" src="https://i.imgur.com/nYLazTa.jpg" />
