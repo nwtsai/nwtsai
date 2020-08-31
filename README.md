@@ -13,12 +13,12 @@
 <b>Switches</b>: Zilent v2 65g lubed with Tribosys 3203 <br/>
 <b>Stabs</b>: Plate mounted stabs lubed with Krytox 205g0 <br/>
 <b>Cable</b>: MechCables custom cable with comonche paracord sleeving and matte black aviators <br/><br/>
+<img width="500px" src="https://i.imgur.com/7K6pNX6.jpg" /> <br/>
 <b>Keycaps</b>: Oblivion Git r2 <br/>
 <b>Case</b>: NK65 v2 - Aluminum Edition <br/>
 <b>Switches</b>: Zilent v2 65g lubed with Tribosys 3203 <br/>
 <b>Stabs</b>: Plate mounted stabs lubed with Krytox 205g0 <br/>
-<b>Cable</b>: MechCables custom cable with comonche paracord sleeving and matte black aviators <br/>
-<img width="500px" src="https://i.imgur.com/7K6pNX6.jpg" />
+<b>Cable</b>: MechCables custom cable with comonche paracord sleeving and matte black aviators
 
 ### Connect
 <a href="https://linkedin.com/in/nwtsai">
