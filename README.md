@@ -6,6 +6,15 @@
 🚙  &nbsp; Senior Software Engineer @ [Turo](https://www.turo.com) <br/>
 🎓  &nbsp; Computer Science @ [UCLA](https://www.ucla.edu)
 
+### Keyboard Builds
+<img width="500px" src="https://i.imgur.com/nYLazTa.jpg" />
+<b>Keycaps</b>: Oblivion Git r2 <br/>
+<b>Case</b>: NK65 v2 - Aluminum Edition <br/>
+<b>Switches</b>: Zilent v2 65g lubed with Tribosys 3203 <br/>
+<b>Stabs</b>: Plate mounted stabs lubed with Krytox 205g0 <br/>
+<b>Cable</b>: MechCables custom cable with comonche paracord sleeving and matte black aviators <br/>
+<img width="500px" src="https://i.imgur.com/7K6pNX6.jpg" />
+
 ### Connect
 <a href="https://linkedin.com/in/nwtsai">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -22,14 +31,3 @@
 <a href="https://open.spotify.com/user/1215527424?si=SnJMSWgcRu6sxHttvSj5wQ">
   <img align="left" alt="Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
-
-<br/>
-
-### Keyboard Builds
-<img width="500px" src="https://i.imgur.com/nYLazTa.jpg" />
-<b>Keycaps</b>: Oblivion Git r2 <br/>
-<b>Case</b>: NK65 v2 - Aluminum Edition <br/>
-<b>Switches</b>: Zilent v2 65g lubed with Tribosys 3203 <br/>
-<b>Stabs</b>: Plate mounted stabs lubed with Krytox 205g0 <br/>
-<b>Cable</b>: MechCables custom cable with comonche paracord sleeving and matte black aviators <br/>
-<img width="500px" src="https://i.imgur.com/7K6pNX6.jpg" />
