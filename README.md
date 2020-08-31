@@ -7,7 +7,6 @@
 🎓  &nbsp; Computer Science @ [UCLA](https://www.ucla.edu)
 
 ### Keyboard Builds
-<img width="500px" src="https://i.imgur.com/nYLazTa.jpg" />
 <b>Keycaps</b>: Oblivion Git r2 <br/>
 <b>Case</b>: NK65 v2 - Aluminum Edition <br/>
 <b>Switches</b>: Zilent v2 65g lubed with Tribosys 3203 <br/>
