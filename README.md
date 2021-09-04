@@ -12,7 +12,7 @@
 <b>Board</b>: Think6.5 v2 <br/>
 <b>Switches</b>: Gateron Ink Black v2 lubed with Krytox 205g0 and filmed <br/>
 <b>Stabs</b>: Durock v2 stabs lubed with Krytox 205g0 <br/>
-<b>Cable</b>: White paracord sleeving and FEMO push-pull cable <br/><br/><br/>
+<b>Cable</b>: White paracord sleeving and FEMO push-pull connector <br/><br/><br/>
 <img width="500px" src="https://i.imgur.com/pCIlFR4.jpg" /> <br/>
 <b>Keycaps</b>: GMK Oblivion Git r2 <br/>
 <b>Board</b>: NK65 v2 - Aluminum Edition <br/>
