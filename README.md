@@ -10,7 +10,7 @@
 <img width="500px" src="https://i.imgur.com/vh3h9oA.jpg" /> <br/>
 <b>Keycaps</b>: GMK Modern Dolch Light <br/>
 <b>Board</b>: Think6.5 v2 <br/>
-<b>Switches</b>: Gateron Ink Black v2 lubed with Krytox 205g0 and filmed <br/>
+<b>Switches</b>: Gateron Ink Black v2 lubed with Krytox 205g0, filmed, and spring swapped with SPRiT 62.5g complex springs <br/>
 <b>Stabs</b>: Durock v2 stabs lubed with Krytox 205g0 <br/>
 <b>Cable</b>: White paracord sleeving and FEMO push-pull connector <br/><br/><br/>
 <img width="500px" src="https://i.imgur.com/pCIlFR4.jpg" /> <br/>
