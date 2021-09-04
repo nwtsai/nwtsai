@@ -11,19 +11,19 @@
 <b>Keycaps</b>: GMK Modern Dolch Light <br/>
 <b>Board</b>: Think6.5 v2 <br/>
 <b>Switches</b>: Gateron Ink Black v2 lubed with Krytox 205g0, filmed, and spring swapped with SPRiT 62.5g complex springs <br/>
-<b>Stabs</b>: Durock v2 stabs lubed with Krytox 205g0 <br/>
+<b>Stabs</b>: Durock v2 lubed with Krytox 205g0 <br/>
 <b>Cable</b>: White paracord sleeving and FEMO push-pull connector <br/><br/><br/>
 <img width="500px" src="https://i.imgur.com/pCIlFR4.jpg" /> <br/>
 <b>Keycaps</b>: GMK Oblivion Git r2 <br/>
 <b>Board</b>: NK65 v2 - Aluminum Edition <br/>
 <b>Switches</b>: Zealios v2 62g lubed with Tribosys 3203 <br/>
-<b>Stabs</b>: Durock v2 stabs lubed with Krytox 205g0 <br/>
+<b>Stabs</b>: Durock v2 lubed with Krytox 205g0 <br/>
 <b>Cable</b>: Comonche paracord sleeving and matte black aviators <br/><br/><br/>
 <img width="500px" src="https://i.imgur.com/7K6pNX6.jpg" /> <br/>
 <b>Keycaps</b>: GMK 9009 r3 <br/>
 <b>Board</b>: AKKO 3068 <br/>
 <b>Switches</b>: Cherry MX Browns <br/>
-<b>Stabs</b>: Durock v2 stabs lubed with Krytox 205g0 <br/>
+<b>Stabs</b>: Durock v2 lubed with Krytox 205g0 <br/>
 <b>Cable</b>: Asceny cable with white sleeving and silver aviators
 
 ### Connect
