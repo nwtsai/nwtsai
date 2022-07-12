@@ -1,5 +1,4 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=nwtsai.nwtsai)
-<br/><br/>
 
 ### About
 🎨  &nbsp; Software Engineer @ [Figma](https://www.figma.com) <br/>
