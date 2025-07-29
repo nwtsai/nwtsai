@@ -21,7 +21,6 @@
 <b>Board</b>: AKKO 3068 <br/>
 <b>Switches</b>: Cherry MX Browns <br/>
 <b>Stabs</b>: Durock v2 lubed with Krytox 205g0 <br/>
-<b>Cable</b>: Asceny cable with white sleeving and silver aviators
 
 ### Connect
 <a href="https://linkedin.com/in/nwtsai">
